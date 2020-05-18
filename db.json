@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "clean dishes",
+      "priority": "medium",
+      "duration": "1 hr",
+      "id": 1
+    },
+    {
+      "title": "take out trash",
+      "priority": "medium",
+      "duration": "5 minutes",
+      "id": 2
+    },
+    {
+      "title": "read a book",
+      "priority": "low",
+      "duration": "2 hour",
+      "id": 3
+    },
+    {
+      "title": "something",
+      "priority": "something",
+      "duration": "something",
+      "id": 4
+    }
+  ]
+}
